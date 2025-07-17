@@ -14,7 +14,8 @@ Shows the current logged-in username
 whoami
 ```
 **Example Output:**
-```Ubuntu
+```
+Ubuntu
 
 ### pwd - Print Working Directory
 Shows where you are in a directory/ folder
@@ -28,7 +29,8 @@ Shows where you are in a directory/ folder
 pwd
 ```
 **Example output:**
-```/home/ubuntu
+```
+/home/ubuntu
 
 ### hostname
 shows the computer name
@@ -44,7 +46,8 @@ sudo hostname new-username #to change temp (until reboot)
 sudo hostnamectl set-hostname new-username #to change permanently.
 ```
 **Example output:**
-```Ubuntu
+```
+Ubuntu
 
 **Self-Notes:**
 - **Sudo** stands for *superuser do* , it lets you run as an administrator (root user). Many system-level commands require special permission. If not added you'll get an error as *permission denied*.
@@ -65,6 +68,7 @@ used to show what unix system you are using.
 uname
 ```
 **Example output:**
+```
 Linux
 
 **Other options:**
