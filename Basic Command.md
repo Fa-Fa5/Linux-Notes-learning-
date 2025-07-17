@@ -16,7 +16,7 @@ whoami
 **Example Output:**
 ```
 Ubuntu
-
+```
 ### pwd - Print Working Directory
 Shows where you are in a directory/ folder
 
@@ -31,7 +31,7 @@ pwd
 **Example output:**
 ```
 /home/ubuntu
-
+```
 ### hostname
 shows the computer name
 
@@ -48,7 +48,7 @@ sudo hostnamectl set-hostname new-username #to change permanently.
 **Example output:**
 ```
 Ubuntu
-
+```
 **Self-Notes:**
 - **Sudo** stands for *superuser do* , it lets you run as an administrator (root user). Many system-level commands require special permission. If not added you'll get an error as *permission denied*.
 - **ctl** stands for control. Usually used for managing a system componenet.
@@ -70,7 +70,7 @@ uname
 **Example output:**
 ```
 Linux
-
+```
 **Other options:**
 | Command    | What it shows                                    |
 | ---------- | ------------------------------------------------ |
