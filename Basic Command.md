@@ -61,7 +61,7 @@ Ubuntu
 | `localectl`   | Control system locale and keyboard layout                    |
 
 
-###uname -Unix name
+### uname -Unix name
 used to show what unix system you are using.
 
 ```bash
