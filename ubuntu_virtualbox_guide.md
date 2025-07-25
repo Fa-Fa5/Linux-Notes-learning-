@@ -4,7 +4,7 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-7.x-orange)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%20LTS-red)]()
 
-> A honest documentation of my Ubuntu installation journey with VirtualBox, including all the things that went wrong and how I fixed them. If you're struggling with similar issues, this guide might save you some headaches! 😅
+> A honest documentation of my Ubuntu installation journey with VirtualBox, including all the things that went wrong and how I fixed them. If you're struggling with similar issues, this guide might save you some headaches! 
 
 ## 📋 Table of Contents
 
@@ -50,7 +50,7 @@ Network: NAT
 ### Problem #1: Ubuntu Kept Asking Me to Install Again
 
 **What happened?**  
-Every time I booted into Ubuntu, it would ask me to install it again like nothing ever happened 😩
+Every time I booted into Ubuntu, it would ask me to install it again like nothing ever happened 
 
 **What I tried:**
 - ✅ Changed the **boot order** so that the hard disk came first
@@ -91,7 +91,7 @@ sudo reboot
 ```
 
 **What actually worked:**
-- Gave up on Guest Additions 🙃
+- Gave up on Guest Additions 
 - Manually adjusted resolution: **Settings > Display > Resolution** in Ubuntu
 - Not perfect, but functional enough
 
